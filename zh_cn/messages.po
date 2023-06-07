@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-03 03:00+0300\n"
-"PO-Revision-Date: 2023-06-07 23:40+0800\n"
+"PO-Revision-Date: 2023-06-07 23:43+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -1375,7 +1375,7 @@ msgstr ""
 #: content/themes/default/templates/admin.blacklist.tpl:16
 #: content/themes/default/templates/admin.tpl:804
 msgid "Blacklist"
-msgstr ""
+msgstr "黑名单"
 
 #: admin.php:3207 content/themes/default/templates/admin.verification.tpl:4
 msgid "Requests"
@@ -1383,12 +1383,12 @@ msgstr ""
 
 #: admin.php:3231 content/themes/default/templates/admin.verification.tpl:5
 msgid "Verified Users"
-msgstr ""
+msgstr "已验证用户"
 
 #: admin.php:3248 content/themes/default/templates/admin.pages.tpl:59
 #: content/themes/default/templates/admin.verification.tpl:6
 msgid "Verified Pages"
-msgstr ""
+msgstr "已验证群组"
 
 #: admin.php:3279 admin.php:3295 admin.php:3315 admin.php:3355 admin.php:3360
 #: content/themes/default/templates/admin.tools.tpl:9
