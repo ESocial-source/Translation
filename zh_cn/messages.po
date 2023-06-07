@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-03 03:00+0300\n"
-"PO-Revision-Date: 2023-06-07 21:41+0800\n"
+"PO-Revision-Date: 2023-06-07 23:40+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_CN\n"
@@ -713,7 +713,7 @@ msgstr ""
 #: content/themes/default/templates/admin.ads.tpl:337
 #: content/themes/default/templates/admin.ads.tpl:440
 msgid "Directory"
-msgstr ""
+msgstr "指南"
 
 #: directory.php:34
 msgid "Users Directory"
@@ -2287,7 +2287,7 @@ msgstr ""
 #: content/themes/default/templates/admin.users.tpl:1054
 #: content/themes/default/templates/admin.users.tpl:1072
 msgid "Friends"
-msgstr ""
+msgstr "好友"
 
 #: includes/class-user.php:1768
 msgid "Your have reached the maximum limit of Friends ("
@@ -5696,7 +5696,7 @@ msgstr ""
 #: content/themes/default/templates/ajax.page.publisher.tpl:43
 #: content/themes/default/templates/page.tpl:943
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 #: content/themes/default/templates/admin.events.tpl:288
 #: content/themes/default/templates/group.tpl:946
@@ -6391,7 +6391,7 @@ msgstr ""
 #: content/themes/default/templates/blogs.tpl:609
 #: content/themes/default/templates/page.tpl:210
 msgid "Timeline"
-msgstr ""
+msgstr "时间线"
 
 #: content/themes/default/templates/group.tpl:199
 #: content/themes/default/templates/group.tpl:369
@@ -6597,7 +6597,7 @@ msgstr ""
 #: content/themes/default/templates/page.tpl:223
 #: content/themes/default/templates/page.tpl:508
 msgid "Invite Friends"
-msgstr ""
+msgstr "邀请好友"
 
 #: content/themes/default/templates/group.tpl:513
 #: content/themes/default/templates/group.tpl:563
@@ -7790,7 +7790,7 @@ msgstr ""
 #: content/themes/default/templates/settings.privacy.tpl:273
 #: content/themes/default/templates/admin.users.tpl:992
 msgid "followers/followings"
-msgstr ""
+msgstr "粉丝/粉丝"
 
 #: content/themes/default/templates/settings.privacy.tpl:291
 #: content/themes/default/templates/__feeds_post.body.tpl:305
@@ -7798,22 +7798,22 @@ msgstr ""
 #: content/themes/default/templates/__feeds_album.tpl:11
 #: content/themes/default/templates/admin.users.tpl:1010
 msgid "photos"
-msgstr ""
+msgstr "照片"
 
 #: content/themes/default/templates/settings.privacy.tpl:309
 #: content/themes/default/templates/admin.users.tpl:1028
 msgid "liked pages"
-msgstr ""
+msgstr "喜欢的页面"
 
 #: content/themes/default/templates/settings.privacy.tpl:327
 #: content/themes/default/templates/admin.users.tpl:1046
 msgid "joined groups"
-msgstr ""
+msgstr "加入的群组"
 
 #: content/themes/default/templates/settings.privacy.tpl:345
 #: content/themes/default/templates/admin.users.tpl:1064
 msgid "joined events"
-msgstr ""
+msgstr "加入的活动"
 
 #: content/themes/default/templates/ajax.job.editor.tpl:4
 #: content/themes/default/templates/__feeds_post.body.tpl:160
@@ -7832,27 +7832,27 @@ msgstr ""
 #: content/themes/default/templates/ajax.job.editor.tpl:48
 #: content/themes/default/templates/ajax.job.publisher.tpl:54
 msgid "Per Hour"
-msgstr ""
+msgstr "每小时"
 
 #: content/themes/default/templates/ajax.job.editor.tpl:49
 #: content/themes/default/templates/ajax.job.publisher.tpl:55
 msgid "Per Day"
-msgstr ""
+msgstr "每天"
 
 #: content/themes/default/templates/ajax.job.editor.tpl:50
 #: content/themes/default/templates/ajax.job.publisher.tpl:56
 msgid "Per Week"
-msgstr ""
+msgstr "每周"
 
 #: content/themes/default/templates/ajax.job.editor.tpl:51
 #: content/themes/default/templates/ajax.job.publisher.tpl:57
 msgid "Per Month"
-msgstr ""
+msgstr "每月"
 
 #: content/themes/default/templates/ajax.job.editor.tpl:52
 #: content/themes/default/templates/ajax.job.publisher.tpl:58
 msgid "Per Year"
-msgstr ""
+msgstr "每年"
 
 #: content/themes/default/templates/ajax.job.editor.tpl:61
 msgid "Job Type"
@@ -8008,13 +8008,13 @@ msgstr ""
 
 #: content/themes/default/templates/banned.tpl:21
 msgid "Banned!"
-msgstr ""
+msgstr "被封禁了！"
 
 #: content/themes/default/templates/banned.tpl:23
 #: content/themes/default/templates/404.tpl:24
 #: content/themes/default/templates/permission.tpl:24
 msgid "Back to homepage"
-msgstr ""
+msgstr "返回主页"
 
 #: content/themes/default/templates/index.newsfeed.tpl:30
 #: content/themes/default/templates/admin.settings.tpl:864
@@ -8104,14 +8104,14 @@ msgstr ""
 
 #: content/themes/default/templates/index.newsfeed.tpl:447
 msgid "Invite Your Friends"
-msgstr ""
+msgstr "邀请你的好友"
 
 #: content/themes/default/templates/index.newsfeed.tpl:486
 #: content/themes/default/templates/admin.settings.tpl:695
 #: content/themes/default/templates/contact.tpl:10
 #: content/themes/default/templates/_footer.links.tpl:33 modules/contact.php:19
 msgid "Contact Us"
-msgstr ""
+msgstr "联系我们"
 
 #: content/themes/default/templates/admin.reactions.tpl:22
 #: content/themes/default/templates/admin.reactions.tpl:55
@@ -10932,7 +10932,7 @@ msgstr ""
 #: content/themes/default/templates/started.tpl:40
 #: content/themes/default/templates/started.tpl:188
 msgid "Add Friends"
-msgstr ""
+msgstr "添加好友"
 
 #: content/themes/default/templates/started.tpl:49
 #: content/themes/default/templates/signup_social.tpl:21
@@ -13698,7 +13698,7 @@ msgstr ""
 
 #: content/themes/default/templates/search.tpl:11
 msgid "Discover new people, create new connections and make new friends"
-msgstr ""
+msgstr "发现新的人，建立新的联系，结交新的朋友"
 
 #: content/themes/default/templates/search.tpl:136
 msgid "More Results"
@@ -17698,7 +17698,7 @@ msgstr ""
 #: content/themes/default/templates/signup_social.tpl:97
 #: content/themes/default/templates/_sign_form.tpl:248
 msgid "Terms"
-msgstr ""
+msgstr "条款"
 
 #: content/themes/default/templates/signup_social.tpl:97
 #: content/themes/default/templates/_sign_form.tpl:248
